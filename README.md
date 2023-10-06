@@ -11,5 +11,6 @@ Watch the Dice Roll: As the page refreshes, the dice will roll automatically. En
 
 developer:
 Sai Kiran Varma
-smart manufacturing 
+I love Developing Applications 
+smart manufacturing engineer I manufactur applications
 2020 - 2024
