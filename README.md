@@ -1,5 +1,13 @@
 About
-Disco disce is a simple dice game between two dice, and value of the dice changes on reloading of the page
+Disco Dice Game
+Welcome to the Disco Dice Game! This simple and exciting web-based game adds a twist to your classic dice game. When you refresh the website, two dice are rolled automatically, and you'll get to see the dice roll as well as the winner. So, put on your dancing shoes and let's get started!
+
+How to Play
+Open the Game: Access the Disco Dice Game by visiting yourwebsite.com in your web browser.
+
+Refresh the Page: Simply refresh the webpage to roll the dice and determine the winner.
+
+Watch the Dice Roll: As the page refreshes, the dice will roll automatically. Enjoy the excitement of seeing the dice in action!
 
 developer:
 Sai Kiran Varma
